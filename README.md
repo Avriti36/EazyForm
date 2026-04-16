@@ -1,6 +1,9 @@
+
 # Formly — AI-Powered Form Builder
 
 An AI-powered form builder platform built with Next.js frontend, Express/Node.js API, PostgreSQL database, and MiniMax AI integration.
+
+<img width="1887" height="849" alt="Screenshot 2026-04-04 011153" src="https://github.com/user-attachments/assets/1668101e-cdf6-41e1-aea4-ea4d16e5e015" />
 
 ## Tech Stack
 
